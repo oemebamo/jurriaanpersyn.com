@@ -1,0 +1,12 @@
+# mac files
+*.DS_Store
+
+# files from Aptana, Zend or Eclips
+.externalToolBuilders/
+.project
+.settings/
+*.sublime-project
+.livereload
+tags
+*.swp
+cscope.*
